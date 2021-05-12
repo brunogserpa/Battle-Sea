@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\Serpa\UFSC\Prog3\Battle Sea\Battle Sea\</FILEPATH>
+      <FILENAME>Player2.cpp</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'Direction' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>Player2::updateInput</FUNCTION>
+    <DECORATED>?updateInput@Player2@@UAEXXZ</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
